@@ -1,4 +1,3 @@
-/.vscode/
 /vendor/
 /node_modules/
 /tests/resources/storage/
@@ -29,3 +28,4 @@ docker-compose.web-installer.yml
 docker-compose.web-installer.yml.**.backup
 tests/playwright/screenshots
 .playwright-mcp/
+config.bat
